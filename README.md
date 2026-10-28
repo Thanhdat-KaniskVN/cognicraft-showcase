@@ -1,4 +1,4 @@
-﻿# 🧠 CogniCraft-Masution
+# 🧠 CogniCraft-Masution
 
 > **A Biological Knowledge Operating System powered by 4-Chip AI Architecture**
 
@@ -75,7 +75,6 @@ graph TD
 
 **Phạm Thành Đạt**  
 - 🎓 Data Science Student @ FPT University
-- 🎯 Goal: MSc Data Science @ ETH Zurich
 
 ---
 
