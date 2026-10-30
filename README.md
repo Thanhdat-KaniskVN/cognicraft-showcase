@@ -1,8 +1,4 @@
-# LƯU Ý: Cậu cd vào thư mục cognicraft-showcase nhé
-cd D:\projects\cognicraft-showcase
 
-$showcaseReadme = @'
-<div align="center">
   <h1>🧠 CogniCraft OS</h1>
   <p><b>A Bio-Inspired Cognitive Operating System (Human-Centric AI)</b></p>
   <p>
